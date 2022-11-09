@@ -1,0 +1,7 @@
+User
+    Cart
+        product
+            items - name
+
+
+
